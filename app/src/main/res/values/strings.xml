@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Walkie Talkie - WiFi </string>
+
+    <!-- Talk fragment -->
+    <string name="my_name">My Name</string>
+    <string name="find_a_friend">Find a Friend</string>
+    <string name="connected_to">Connected to\n%s</string>
+    <string name="disabled">Disabled</string>
+    <string name="hold_and_speak">"Hold\nand\nSpeak"</string>
+
+    <!-- Friends fragment -->
+    <string name="looking_friends">"Looking for friends in Network"</string>
+
+</resources>
